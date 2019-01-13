@@ -1,4 +1,4 @@
-declare module "react-stripe-checkout" {
+declare module "@mirego/react-stripe-checkout" {
 
     export interface Card {
         id: string
